@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [db-clothing](https://github.com/pritam047/db-clothing)
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **ReactNative**
 
 - 👨‍💻 All of my projects are available at [https://pritamkar.me](https://pritamkar.me)
 
