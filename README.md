@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam047&label=Profile%20views&color=0e75b6&style=flat" alt="pritam047" /> </p>
 
-- 🔭 I’m currently working on [db-clothing](https://github.com/pritam047/db-clothing)
+- 🔭 I’m currently working on [Memories](https://github.com/pritam047/memories)
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://pritamkar.tech](https://pritamkar.tech)
 
-- 💬 Ask me about **Reactjs,Nodejs,MongoDB,Firebase**
+- 💬 Ask me about **Reactjs,Nodejs,MongoDB,Javascript**
 
 - 📫 How to reach me **pritamkar13@gmail.com**
 
