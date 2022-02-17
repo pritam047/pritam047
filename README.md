@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **pritamkar13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UgM0fKxBPl5CAsp9KlVs3mmvtBdYT6vG/view?usp=sharing](https://drive.google.com/file/d/1UgM0fKxBPl5CAsp9KlVs3mmvtBdYT6vG/view?usp=sharing)
-
 - ⚡ Fun fact **Debugging is fun for me😜**
 
 <h3 align="left">Connect with me:</h3>
