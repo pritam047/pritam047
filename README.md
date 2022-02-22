@@ -34,7 +34,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritam047&show_icons=true&locale=en&layout=compact" alt="pritam047" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritam047&show_icons=true&locale=en" alt="pritam047" /></p>
+![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=pritam047&theme=onedark&show_icons=true&count_private=true)
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritam047&show_icons=true&locale=en" alt="pritam047" /></p> -->
 
 
 
