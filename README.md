@@ -17,11 +17,11 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://dev.to/pritam047" target="blank"><img align="center" src="https://img.icons8.com/windows/48/000000/dev.png" alt="pritam047"/></a>
-<a href="https://twitter.com/pritam_kar13" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="pritam_kar13"/></a>
-<a href="https://linkedin.com/in/pritam-kar-06b515176" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="pritam-kar-06b515176"/></a>
-<a href="https://www.codechef.com/users/pritam147" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/codechef.png" alt="pritam147" /></a>
-<a href="https://www.hackerrank.com/pritamkar13" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="pritamkar13"/></a>
+<a href="https://dev.to/pritam047" target="_blank"><img align="center" src="https://img.icons8.com/windows/48/000000/dev.png" alt="pritam047"/></a>
+<a href="https://twitter.com/pritam_kar13" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="pritam_kar13"/></a>
+<a href="https://linkedin.com/in/pritam-kar-06b515176" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="pritam-kar-06b515176"/></a>
+<a href="https://www.codechef.com/users/pritam147" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/codechef.png" alt="pritam147" /></a>
+<a href="https://www.hackerrank.com/pritamkar13" target="_blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="pritamkar13"/></a>
 <!-- <a href="https://www.hackerearth.com/@pritam253" target="blank"><img align="center" src="https://api.iconify.design/simple-icons/hackerearth.svg?width=48&height=48" alt="@pritam253" height="30" width="40" /></a> -->
 </p>
 
