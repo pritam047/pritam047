@@ -32,10 +32,19 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/pritam047"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pritam047" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritam047&show_icons=true&locale=en&layout=compact" alt="pritam047" /></p>
+## :trophy: My Github Stats:
 
-![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=pritam047&theme=onedark&show_icons=true&count_private=true)
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritam047&show_icons=true&locale=en" alt="pritam047" /></p> -->
+<div style="display:flex; flex-direction: row; justify-content: space-around;" width="5rem">
+  <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=pritam047&theme=onedark&show_icons=true&count_private=true&hide_border=true" alt="pritam's github stats" /> 
+    <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=pritam047&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=60C376&ring=60C376&currStreakLabel=60C376&sideLabels=60C376"/>
+</div>
+
+<div align='left' width="5rem" >  
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=pritam047&theme=onedark&show_icons=true&count_private=true" alt="pritam's github stats" />   -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pritam047&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" />
+<!-- ![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=pritam047&theme=onedark&show_icons=true&count_private=true) -->
+</div>
+  <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritam047&show_icons=true&locale=en" alt="pritam047" /></p> -->
 
 
 
