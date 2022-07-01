@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [https://pritamkar.tech](https://pritamkar.tech)
+- 👨‍💻 All of my projects are available at [https://pritamkar.tech](https://pritamkar.codes)
 
 - 💬 Ask me about **Reactjs,Nodejs,MongoDB,Javascript**
 
